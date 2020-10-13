@@ -1,11 +1,11 @@
 # Site settings
-title: Soumyadeep Das 
+title: Alexandre Carvalho
 subtitle: Homepage
 tagline: Astrophysics. AGN. Interferometry. I am an incoming PhD Student at ICRAR/UWA Perth.
 email: soumyadeep.das.phy14@iitbhu.ac.in
 description: Astrophysics. AGN. Interferometry. I am an incoming PhD Student at ICRAR/UWA Perth. I am interested in multiwavelength AGN research, studies of evolutionary path of radio galaxies, AGN restart, and the role of the host environment on AGN life-cycle. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://thephoenix01.github.io" # the base hostname & protocol for your site
+url: "https://alex4impact.github.io" # the base hostname & protocol for your site
 logo: assets/images/favicon.png
 
 
@@ -22,7 +22,7 @@ collections:
 myversion: 1.0.1
 
 author:
-    name: Soumyadeep Das
+    name: Alex Carvalho
     avatar : assets/images/profile_picture.png
     avatar-webp: assets/images/profile_picture.webp
     avatar-thumb: assets/images/profile_picture-thumb.jpg
